@@ -1,0 +1,20 @@
+{
+  "name": "SMART OPR GENERATOR — SM Sains Tuanku Munawir",
+  "short_name": "OPR ST Munawir",
+  "description": "Sistem penjana OPR dan kalendar program SM Sains Tuanku Munawir",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0a3651",
+  "lang": "ms",
+  "icons": [
+    {
+      "src": "https://iili.io/nDxdzdX.md.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
