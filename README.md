@@ -24,3 +24,6 @@ Templat asal + Corporate Blue, Emerald Gold, Modern Minimalist, Sporty Dynamic. 
 
 ## Perhatian ikon PWA
 Lencana dimasukkan melalui URL luaran https://iili.io/nDxdzdX.md.png. Untuk pemasangan PWA yang konsisten pada semua peranti dan luar talian, simpan versi PNG tempatan 192x192 dan 512x512 dalam repositori serta kemas kini manifest.
+
+## Pembaikan cetak A4 (8 November 2026)
+Kandungan templat baharu ditetapkan kepada 210 × 297 mm termasuk padding dan sempadan (box-sizing: border-box), mengelakkan bahagian kanan terpotong. Lebar gambar dihadkan pada petak sendiri. Fungsi asal dan backend tidak diubah.
